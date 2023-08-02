@@ -1,0 +1,9 @@
+pandas
+numpy
+pyfolio
+optuna
+matplotlib
+plotly
+cufflinks
+yfinance
+statsmodels
